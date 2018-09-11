@@ -1,6 +1,18 @@
 # Appium-OpenCV-MobileTesting
 A Python class with helper functions for developing automated test scripts for mobile games.
 
+Publication:
+```
+@InProceedings{Lovreto2018SBGAMES,
+    author = "Gabriel Lovreto and Andre T. Endo and Paulo Nardi and Vinicius H. S. Durelli",
+    title = "Automated Tests for Mobile Games: An Experience Report",
+    booktitle = "Proceedings of the XVII Brazilian Symposium on Computer Games and Digital Entertainment (SBGAMES)",
+    year = "2018", 
+    numpages = {9},
+    location = {Foz do Iguacu, Brazil},
+} 
+```
+
 ## Prerequisites
 
  * Python (2.7 or 3+)
